@@ -1,0 +1,101 @@
+review_id,customer_id,customer_name,product_id,product_name,category,rating,review_text,review_date,verified_purchase,helpful_votes
+1,CUST001,John Smith,PROD001,Laptop Pro,Electronics,5,"This laptop is absolutely amazing! The performance is outstanding and the battery life exceeds my expectations. Highly recommend for professionals.",2024-01-15,True,25
+2,CUST002,Maria Garcia,PROD002,Wireless Mouse,Electronics,4,"Good mouse with comfortable grip. Battery lasts for weeks. Sometimes connection drops occasionally.",2024-01-16,True,12
+3,CUST003,Robert Chen,PROD003,Office Chair,Furniture,3,"Chair looks great but after 3 months of daily use, the cushion started losing firmness. Assembly was easy though.",2024-01-17,True,8
+4,CUST004,Emily Davis,PROD004,Coffee Maker,Appliances,5,"Best coffee maker I've ever owned! Makes perfect coffee every time. The timer feature is super convenient for morning routine.",2024-01-18,True,30
+5,CUST005,Michael Wilson,PROD005,Desk Lamp,Furniture,4,"Nice bright light with adjustable settings. The base could be more stable. Good value for money overall.",2024-01-19,True,15
+6,CUST006,Sarah Anderson,PROD006,USB-C Hub,Electronics,2,"Stopped working after just 2 weeks. Build quality feels cheap. Customer service was unhelpful when I contacted them.",2024-01-20,True,5
+7,CUST007,David Martinez,PROD007,Notebook Set,Stationery,5,"Beautiful notebook set! Paper quality is excellent and the cover design is elegant. Perfect for journaling.",2024-01-21,True,18
+8,CUST008,Lisa Thompson,PROD008,Bluetooth Speaker,Electronics,4,"Sound quality is decent for the price. Bass could be stronger. Battery life is impressive - lasts all day.",2024-01-22,True,22
+9,CUST009,James Taylor,PROD009,Monitor Stand,Furniture,5,"Sturdy and well-built. Height adjustment is smooth. My neck pain has reduced significantly since using this.",2024-01-23,True,35
+10,CUST010,Jennifer White,PROD010,Webcam,Electronics,3,"Video quality is okay for video calls but not great for professional streaming. Auto-focus struggles in low light.",2024-01-24,True,10
+11,CUST011,William Harris,PROD011,Keyboard,Mechanical,5,"Excellent mechanical keyboard! Typing feel is amazing and RGB lighting looks great. No issues with connectivity.",2024-01-25,True,40
+12,CUST012,Amanda Clark,PROD012,Desk Organizer,Furniture,4,"Helps keep my desk tidy. Some compartments are too small for larger items. Overall useful product.",2024-01-26,True,12
+13,CUST013,Christopher Lewis,PROD013,External Hard Drive,Electronics,4,"Fast transfer speeds and reliable storage. Gets quite warm during heavy use. Good backup solution.",2024-01-27,True,28
+14,CUST014,Melissa Walker,PROD014,Plant Pot,Furniture,5,"Beautiful design and perfect size for my windowsill. Drainage holes work well. Plants seem happy in it!",2024-01-28,True,8
+15,CUST015,Daniel Hall,PROD015,Phone Case,Electronics,3,"Looks stylish and offers good protection. Buttons are a bit hard to press through the case. Worth the price.",2024-01-29,True,15
+16,CUST016,Michelle Allen,PROD016,Tablet,Electronics,5,"Incredible tablet! Screen is crystal clear and performance is smooth. Great for both work and entertainment.",2024-01-30,True,50
+17,CUST017,Matthew Young,PROD017,Desk Calendar,Stationery,4,"Nice layout and good paper quality. Stand could be more stable. Helps me stay organized.",2024-01-31,True,20
+18,CUST018,Laura King,PROD018,Power Bank,Electronics,2,"Capacity is much lower than advertised. Takes forever to charge. Disappointed with this purchase.",2024-02-01,True,3
+19,CUST019,Joshua Wright,PROD019,Bookshelf,Furniture,5,"Solid wood construction and easy to assemble. Holds many books without sagging. Excellent value!",2024-02-02,True,45
+20,CUST020,Brian Lopez,PROD020,Laptop Bag,Electronics,4,"Good padding and plenty of compartments. Water bottle holder is too small for standard bottles. Comfortable to carry.",2024-02-03,True,25
+21,CUST021,Kimberly Scott,PROD021,Desk Mat,Furniture,3,"Surface is nice and smooth. Edges started fraying after a month. Could be more durable for the price.",2024-02-04,True,7
+22,CUST022,Steven Green,PROD022,Wireless Charger,Electronics,2,"Charging is very slow and phone gets hot. Cable quality feels cheap. Would not recommend.",2024-02-05,True,2
+23,CUST023,Nancy Adams,PROD023,Filing Cabinet,Furniture,4,"Spacious and locks work well. Drawers don't slide as smoothly as expected. Good for home office.",2024-02-06,True,18
+24,CUST024,Paul Baker,PROD024,Monitor,Electronics,5,"Stunning display quality! Colors are vibrant and refresh rate is smooth. Great for both work and gaming.",2024-02-07,True,60
+25,CUST025,Rachel Nelson,PROD025,Pen Set,Stationery,5,"Beautiful pens that write smoothly. Ink doesn't bleed through paper. Elegant design makes them great gifts.",2024-02-08,True,30
+26,CUST026,Kevin Carter,PROD026,Desk Fan,Furniture,3,"Quiet operation and good airflow. Oscillation range could be wider. Helps keep me cool during long work sessions.",2024-02-09,True,14
+27,CUST027,Donna Mitchell,PROD027,Whiteboard,Furniture,4,"Good size for home office. Erases cleanly but markers dry out quickly. Comes with useful accessories.",2024-02-10,True,22
+28,CUST028,George Perez,PROD028,Marker Set,Stationery,5,"Vibrant colors that don't fade. Tips are durable and don't fray. Great value for artists and students.",2024-02-11,True,35
+29,CUST029,Morris Rogers,PROD029,Desk Lamp,Furniture,4,"Bright and adjustable. Power cord could be longer. Touch controls are responsive and intuitive.",2024-02-12,True,16
+30,CUST030,Karen Reed,PROD030,Stapler,Stationery,3,"Staples consistently jam. Construction feels flimsy. Disappointed with the quality.",2024-02-13,True,4
+31,CUST031,Larry Cook,PROD031,Bookend,Furniture,5,"Heavy and stable. Holds even my heaviest books upright. Elegant design adds class to my bookshelf.",2024-02-14,True,12
+32,CUST032,Morgan Bailey,PROD032,Highlighter Set,Stationery,4,"Bright colors that don't bleed through pages. Some dry out faster than others. Good for studying.",2024-02-15,True,20
+33,CUST033,Wayne Cooper,PROD033,Desk Phone,Electronics,2,"Sound quality is poor and often drops calls. Display is hard to read. Not worth the money.",2024-02-16,True,1
+34,CUST034,Richard Richardson,PROD034,Storage Box,Furniture,4,"Good size and stackable. Lids don't seal tightly. Helps organize my office supplies.",2024-02-17,True,9
+35,CUST035,Sharon Cox,PROD035,Scissors,Stationery,5,"Sharp and cut cleanly. Comfortable grip for extended use. Excellent for crafts and office work.",2024-02-18,True,25
+36,CUST036,Terry Howard,PROD036,Tablet Case,Electronics,3,"Offers good protection but adds bulk. Stand feature is useful but unstable. Average quality case.",2024-02-19,True,11
+37,CUST037,Cynthia Ward,PROD037,Wall Art,Furniture,5,"Beautiful artwork that transforms my office! Colors are vibrant and canvas quality is excellent. Fast shipping.",2024-02-20,True,40
+38,CUST038,Jeffrey Torres,PROD038,Gaming Mouse,Electronics,4,"Precise tracking and customizable RGB. Software could be more intuitive. Good for gaming and work.",2024-02-21,True,32
+39,CUST039,Kelly Peterson,PROD039,Desk Organizer,Furniture,3,"Helps declutter my workspace. Some drawers are sticky. Could use better quality control.",2024-02-22,True,8
+40,CUST040,Scott Gray,PROD040,Bluetooth Earbuds,Electronics,2,"Connection is unreliable and sound quality is disappointing. Battery life is good though. Overpriced.",2024-02-23,True,6
+41,CUST041,Chris Martin,PROD041,Desk Calendar,Stationery,5,"Large spaces for writing and good paper quality. Stand is sturdy. Helps me stay productive.",2024-02-24,True,28
+42,CUST042,Daniel Thompson,PROD042,Power Strip,Electronics,4,"Plenty of outlets and USB ports are convenient. Surge protection works well. Cord could be longer.",2024-02-25,True,19
+43,CUST043,Barbara White,PROD043,Photo Frame,Furniture,4,"Nice design and good build quality. Easy to insert photos. Stand could be more stable.",2024-02-26,True,7
+44,CUST044,Mark Harris,PROD044,Pencil Set,Stationery,5,"Smooth writing and comfortable grip. Lead doesn't break easily. Beautiful case included.",2024-02-27,True,22
+45,CUST045,Laura Martinez,PROD045,Desk Mat,Furniture,3,"Surface is comfortable for writing. Attracts dust and pet hair easily. Could be easier to clean.",2024-02-28,True,5
+46,CUST046,Steven Anderson,PROD046,External SSD,Electronics,5,"Blazing fast transfer speeds! Compact and durable. Great upgrade for my laptop. Highly recommend.",2024-02-29,True,55
+47,CUST047,Nancy Clark,PROD047,Book Light,Furniture,4,"Bright and adjustable settings. Battery life is excellent. Clip could be stronger for thicker books.",2024-03-01,True,17
+48,CUST048,Paul Lewis,PROD048,Desk Chair,Furniture,2,"Uncomfortable after 30 minutes. Lumbar support is inadequate. Assembly was difficult. Returning it.",2024-03-02,True,3
+49,CUST049,David Walker,PROD049,Monitor,Electronics,3,"Decent display for basic tasks. Colors look washed out. Stand is wobbly. You get what you pay for.",2024-03-03,True,12
+50,CUST050,Melissa Hall,PROD050,Notebook,Stationery,5,"Premium paper that handles fountain pens well. Cover is beautiful and durable. Perfect for journaling.",2024-03-04,True,38
+51,CUST051,Christopher Allen,PROD051,Desk Fan,Furniture,4,"Quiet operation and three speed settings. Oscillation is smooth. Helps with air circulation in my office.",2024-03-05,True,21
+52,CUST052,Laura King,PROD052,Wireless Keyboard,Electronics,3,"Keys have nice tactile feedback. Connection drops occasionally. Battery life could be better.",2024-03-06,True,14
+53,CUST053,Joshua Wright,PROD053,Filing Cabinet,Furniture,5,"Solid construction with smooth drawers. Locks provide security. Great for document organization.",2024-03-07,True,33
+54,CUST054,Brian Lopez,PROD054,Desk Lamp,Electronics,4,"Good brightness and color temperature adjustment. Touch controls are responsive. Base could be heavier.",2024-03-08,True,16
+55,CUST055,Kimberly Scott,PROD055,Phone Stand,Electronics,5,"Stable and adjustable to different angles. Cable management is thoughtful. Great for desk setup.",2024-03-09,True,26
+56,CUST056,Steven Green,PROD056,Marker Set,Stationery,4,"Good variety of colors. Some tips fray quickly. Work well for most applications.",2024-03-10,True,13
+57,CUST057,Morgan Bailey,PROD057,Storage Box,Furniture,3,"Clear design helps see contents. Lids don't fit tightly. Useful for light storage.",2024-03-11,True,9
+58,CUST058,Wayne Cooper,PROD058,Desk Calendar,Stationery,5,"Large writing spaces and good paper quality. Includes useful stickers and bookmarks. Love it!",2024-03-12,True,42
+59,CUST059,Richard Richardson,PROD059,Desk Organizer,Furniture,4,"Helps keep workspace tidy. Some compartments are too small. Overall decent product.",2024-03-13,True,11
+60,CUST060,Sharon Cox,PROD060,Power Bank,Electronics,2,"Much lower capacity than advertised. Takes forever to charge. Complete waste of money.",2024-03-14,True,2
+61,CUST061,Terry Howard,PROD061,Tablet,Electronics,4,"Good performance for daily tasks. Screen could be brighter. Battery life is decent. Value for money.",2024-03-15,True,31
+62,CUST062,Cynthia Ward,PROD062,Laptop Bag,Electronics,5,"Excellent protection and plenty of padding. Multiple compartments are well-designed. Comfortable to carry.",2024-03-16,True,48
+63,CUST063,Jeffrey Torres,PROD063,Desk Mat,Furniture,3,"Surface is smooth and comfortable. Edges started fraying after a month. Average quality.",2024-03-17,True,6
+64,CUST064,Kelly Peterson,PROD064,Monitor Stand,Furniture,5,"Very sturdy and height adjustment is smooth. Cable management is excellent. Improved my posture!",2024-03-18,True,37
+65,CUST065,Scott Gray,PROD065,Webcam,Electronics,3,"Video quality is okay for basic calls. Auto-focus struggles. Microphone picks up background noise.",2024-03-19,True,8
+66,CUST066,Chris Martin,PROD066,Desk Chair,Furniture,2,"Very uncomfortable after short use. Lumbar support is poor. Assembly instructions were unclear.",2024-03-20,True,4
+67,CUST067,Daniel Thompson,PROD067,Bluetooth Speaker,Electronics,4,"Sound quality is decent for the size. Battery life is impressive. Connection is stable.",2024-03-21,True,19
+68,CUST068,Barbara White,PROD068,Notebook Set,Stationery,5,"Beautiful design and excellent paper quality. Pens write smoothly. Great gift idea!",2024-03-22,True,29
+69,CUST069,Mark Harris,PROD069,Desk Fan,Furniture,4,"Quiet operation and good airflow. Three speed settings are useful. Could have wider oscillation.",2024-03-23,True,15
+70,CUST070,Laura Martinez,PROD070,External Hard Drive,Electronics,5,"Fast and reliable storage. Compact design is convenient. Great backup solution!",2024-03-24,True,44
+71,CUST071,Steven Anderson,PROD071,Plant Pot,Furniture,5,"Beautiful ceramic design with good drainage. Perfect size for desk plants. Adds life to my office!",2024-03-25,True,12
+72,CUST072,Nancy Clark,PROD072,Phone Case,Electronics,3,"Looks stylish and offers decent protection. Buttons are hard to press. Average quality case.",2024-03-26,True,7
+73,CUST073,Paul Lewis,PROD073,Desk Organizer,Furniture,4,"Helps keep my desk tidy. Some drawers don't slide smoothly. Useful overall.",2024-03-27,True,13
+74,CUST074,David Walker,PROD074,Power Strip,Electronics,5,"Plenty of outlets and USB ports. Surge protection works well. Long cord is convenient.",2024-03-28,True,34
+75,CUST075,Melissa Hall,PROD075,Highlighter Set,Stationery,4,"Bright colors that don't bleed through. Some dry out faster than others. Good for studying.",2024-03-29,True,18
+76,CUST076,Christopher Allen,PROD076,Desk Lamp,Electronics,5,"Excellent brightness with warm light option. Touch controls are responsive. Modern design looks great.",2024-03-30,True,27
+77,CUST077,Laura King,PROD077,Storage Box,Furniture,3,"Clear design helps see contents. Stackable feature is useful. Lids don't seal tightly.",2024-03-31,True,10
+78,CUST078,Joshua Wright,PROD078,Desk Calendar,Stationery,5,"Large spaces for writing and good paper quality. Includes useful planning stickers. Love it!",2024-04-01,True,41
+79,CUST079,Brian Lopez,PROD079,Wireless Mouse,Electronics,4,"Comfortable grip and good tracking. Battery life is excellent. Occasionally loses connection.",2024-04-02,True,23
+80,CUST080,Kimberly Scott,PROD080,Desk Chair,Furniture,2,"Very uncomfortable and poor lumbar support. Started squeaking after a week. Disappointed.",2024-04-03,True,5
+81,CUST081,Steven Green,PROD081,Monitor,Electronics,5,"Crisp display with vibrant colors. Stand is sturdy and adjustable. Great for work and entertainment.",2024-04-04,True,52
+82,CUST082,Morgan Bailey,PROD082,Desk Mat,Furniture,4,"Comfortable surface for writing. Attracts dust easily. Could be more durable.",2024-04-05,True,14
+83,CUST083,Wayne Cooper,PROD083,Bluetooth Earbuds,Electronics,3,"Decent sound quality for calls. Battery life is good. Case is convenient for charging.",2024-04-06,True,17
+84,CUST084,Richard Richardson,PROD084,Desk Phone,Electronics,2,"Poor sound quality and drops calls. Display is hard to read. Not recommended.",2024-04-07,True,1
+85,CUST085,Sharon Cox,PROD085,Notebook,Stationery,5,"Premium paper with beautiful cover. Pages lay flat. Perfect for journaling and notes.",2024-04-08,True,36
+86,CUST086,Terry Howard,PROD086,Desk Fan,Furniture,4,"Quiet operation with good airflow. Three speed settings are useful. Helps keep me cool.",2024-04-09,True,20
+87,CUST087,Cynthia Ward,PROD087,Power Bank,Electronics,3,"Decent capacity and charges reasonably fast. Gets warm during use. Good emergency charger.",2024-04-10,True,15
+88,CUST088,Jeffrey Torres,PROD088,Tablet Case,Electronics,4,"Good protection with kickstand feature. Adds some bulk. Value for money overall.",2024-04-11,True,24
+89,CUST089,Kelly Peterson,PROD089,Desk Organizer,Furniture,3,"Helps with organization but quality is average. Some drawers don't align properly.",2024-04-12,True,8
+90,CUST090,Scott Gray,PROD090,External SSD,Electronics,5,"Lightning fast transfer speeds! Compact and durable. Great performance upgrade. Highly recommend!",2024-04-13,True,58
+91,CUST091,Chris Martin,PROD091,Desk Lamp,Furniture,5,"Excellent brightness with color temperature control. Modern design looks great. Touch controls work well.",2024-04-14,True,31
+92,CUST092,Daniel Thompson,PROD092,Plant Pot,Furniture,4,"Beautiful design with good drainage. Size is perfect for desk. Adds nice touch to office.",2024-04-15,True,11
+93,CUST093,Barbara White,PROD093,Desk Calendar,Stationery,5,"Large writing spaces and premium paper. Includes thoughtful planning features. Love using it!",2024-04-16,True,39
+94,CUST094,Mark Harris,PROD094,Wireless Keyboard,Electronics,4,"Comfortable typing experience. Connection is stable. Battery could last longer.",2024-04-17,True,22
+95,CUST095,Laura Martinez,PROD095,Storage Box,Furniture,3,"Clear design is helpful. Stackable feature works well. Lids could fit tighter.",2024-04-18,True,9
+96,CUST096,Steven Anderson,PROD096,Desk Chair,Furniture,2,"Very uncomfortable and poor build quality. Started falling apart after a month. Avoid this product.",2024-04-19,True,2
+97,CUST097,Nancy Clark,PROD097,Monitor Stand,Furniture,5,"Very sturdy construction. Height adjustment is smooth. Cable management is excellent. Great value!",2024-04-20,True,35
+98,CUST098,Paul Lewis,PROD098,Bluetooth Speaker,Electronics,3,"Average sound quality. Battery life is decent. Connection sometimes drops. Overpriced for quality.",2024-04-21,True,7
+99,CUST099,David Walker,PROD099,Desk Mat,Furniture,4,"Comfortable surface for writing. Helps keep desk clean. Could be more durable for price.",2024-04-22,True,16
+100,CUST100,Melissa Hall,PROD100,Power Strip,Electronics,5,"Excellent surge protection and plenty of outlets. USB ports are convenient. Long cord is useful.",2024-04-23,True,43

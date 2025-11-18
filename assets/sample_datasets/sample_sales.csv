@@ -1,0 +1,51 @@
+order_id,customer_id,customer_name,product_id,product_name,category,quantity,unit_price,total_price,order_date,region,sales_rep,customer_rating,payment_method
+1001,CUST001,John Smith,PROD001,Laptop Pro,Electronics,2,1200.00,2400.00,2024-01-15,North,Alice Johnson,4.5,Credit Card
+1002,CUST002,Maria Garcia,PROD002,Wireless Mouse,Electronics,1,45.00,45.00,2024-01-16,South,Bob Williams,4.2,PayPal
+1003,CUST003,Robert Chen,PROD003,Office Chair,Furniture,1,350.00,350.00,2024-01-17,East,Alice Johnson,4.8,Bank Transfer
+1004,CUST004,Emily Davis,PROD004,Coffee Maker,Appliances,1,89.00,89.00,2024-01-18,West,Charlie Brown,4.1,Credit Card
+1005,CUST005,Michael Wilson,PROD005,Desk Lamp,Furniture,2,25.00,50.00,2024-01-19,North,Bob Williams,3.9,Cash
+1006,CUST006,Sarah Anderson,PROD006,USB-C Hub,Electronics,1,65.00,65.00,2024-01-20,East,Alice Johnson,4.6,Credit Card
+1007,CUST007,David Martinez,PROD007,Notebook Set,Stationery,3,15.00,45.00,2024-01-21,South,Charlie Brown,4.3,PayPal
+1008,CUST008,Lisa Thompson,PROD008,Bluetooth Speaker,Electronics,1,120.00,120.00,2024-01-22,West,Bob Williams,4.7,Bank Transfer
+1009,CUST009,James Taylor,PROD009,Monitor Stand,Furniture,1,75.00,75.00,2024-01-23,North,Alice Johnson,4.4,Credit Card
+1010,CUST010,Jennifer White,PROD010,Webcam,Electronics,1,80.00,80.00,2024-01-24,East,Charlie Brown,4.2,PayPal
+1011,CUST011,William Harris,PROD011,Keyboard,Mechanical,1,110.00,110.00,2024-01-25,South,Bob Williams,4.9,Cash
+1012,CUST012,Amanda Clark,PROD012,Desk Organizer,Furniture,2,35.00,70.00,2024-01-26,West,Alice Johnson,4.1,Credit Card
+1013,CUST013,Christopher Lewis,PROD013,External Hard Drive,Electronics,1,150.00,150.00,2024-01-27,North,Charlie Brown,4.6,Bank Transfer
+1014,CUST014,Melissa Walker,PROD014,Plant Pot,Furniture,3,20.00,60.00,2024-01-28,East,Bob Williams,4.3,PayPal
+1015,CUST015,Daniel Hall,PROD015,Phone Case,Electronics,2,25.00,50.00,2024-01-29,South,Alice Johnson,4.5,Cash
+1016,CUST016,Michelle Allen,PROD016,Tablet,Electronics,1,450.00,450.00,2024-01-30,West,Charlie Brown,4.8,Credit Card
+1017,CUST017,Matthew Young,PROD017,Desk Calendar,Stationery,1,12.00,12.00,2024-01-31,North,Bob Williams,4.2,Bank Transfer
+1018,CUST018,Laura King,PROD018,Power Bank,Electronics,1,60.00,60.00,2024-02-01,East,Alice Johnson,4.4,PayPal
+1019,CUST019,Joshua Wright,PROD019,Bookshelf,Furniture,1,200.00,200.00,2024-02-02,South,Charlie Brown,4.7,Cash
+1020,CUST020,Brian Lopez,PROD020,Laptop Bag,Electronics,1,80.00,80.00,2024-02-03,West,Bob Williams,4.1,Credit Card
+1021,CUST021,Kimberly Scott,PROD021,Desk Mat,Furniture,2,15.00,30.00,2024-02-04,North,Alice Johnson,4.6,Bank Transfer
+1022,CUST022,Steven Green,PROD022,Wireless Charger,Electronics,3,20.00,60.00,2024-02-05,East,Charlie Brown,4.3,PayPal
+1023,CUST023,Nancy Adams,PROD023,Wall Clock,Furniture,1,45.00,45.00,2024-02-06,South,Bob Williams,4.5,Cash
+1024,CUST024,Paul Baker,PROD024,Tablet Stand,Electronics,1,40.00,40.00,2024-02-07,West,Alice Johnson,4.2,Credit Card
+1025,CUST025,Rachel Nelson,PROD025,Pen Set,Stationery,5,8.00,40.00,2024-02-08,North,Charlie Brown,4.8,Bank Transfer
+1026,CUST026,Kevin Carter,PROD026,Monitor,Electronics,1,300.00,300.00,2024-02-09,East,Bob Williams,4.6,PayPal
+1027,CUST027,Donna Mitchell,PROD027,Filing Cabinet,Furniture,1,150.00,150.00,2024-02-10,South,Alice Johnson,4.4,Cash
+1028,CUST028,George Perez,PROD028,Mouse Pad,Electronics,2,10.00,20.00,2024-02-11,West,Charlie Brown,4.1,Credit Card
+1029,CUST029,Carol Roberts,PROD029,Desk Lamp,Furniture,1,35.00,35.00,2024-02-12,North,Bob Williams,4.7,Bank Transfer
+1030,CUST030,Edward Turner,PROD030,Headphones,Electronics,1,120.00,120.00,2024-02-13,East,Alice Johnson,4.5,PayPal
+1031,CUST031,Brenda Phillips,PROD031,Notebook,Stationery,3,5.00,15.00,2024-02-14,South,Charlie Brown,4.2,Cash
+1032,CUST032,Ronald Campbell,PROD032,Webcam Cover,Electronics,1,15.00,15.00,2024-02-15,West,Bob Williams,4.3,Credit Card
+1033,CUST033,Laura Parker,PROD033,Coffee Mug,Appliances,4,8.00,32.00,2024-02-16,North,Alice Johnson,4.6,Bank Transfer
+1034,CUST034,Mark Evans,PROD034,Desk Fan,Furniture,1,40.00,40.00,2024-02-17,East,Charlie Brown,4.4,PayPal
+1035,CUST035,Sandra Edwards,PROD035,Phone Stand,Electronics,1,25.00,25.00,2024-02-18,South,Bob Williams,4.1,Cash
+1036,CUST036,Jason Collins,PROD036,Storage Box,Furniture,2,20.00,40.00,2024-02-19,West,Alice Johnson,4.8,Credit Card
+1037,CUST037,Stephanie Stewart,PROD037,Cable Organizer,Electronics,1,15.00,15.00,2024-02-20,North,Charlie Brown,4.3,Bank Transfer
+1038,CUST038,Frank Sanchez,PROD038,Whiteboard,Furniture,1,80.00,80.00,2024-02-21,East,Bob Williams,4.6,PayPal
+1039,CUST039,Morris Rogers,PROD039,Marker Set,Stationery,1,25.00,25.00,2024-02-22,South,Alice Johnson,4.2,Cash
+1040,CUST040,Karen Reed,PROD040,Desk Phone,Electronics,1,60.00,60.00,2024-02-23,West,Charlie Brown,4.7,Credit Card
+1041,CUST041,Larry Cook,PROD041,Bookend,Furniture,1,30.00,30.00,2024-02-24,North,Bob Williams,4.4,Bank Transfer
+1042,CUST042,Morgan Bailey,PROD042,Highlighter Set,Stationery,2,12.00,24.00,2024-02-25,East,Alice Johnson,4.1,PayPal
+1043,CUST043,Wayne Cooper,PROD043,Monitor Filter,Electronics,1,20.00,20.00,2024-02-26,South,Charlie Brown,4.5,Cash
+1044,CUST044,Richard Richardson,PROD044,Desk Pad,Furniture,1,25.00,25.00,2024-02-27,West,Bob Williams,4.6,Credit Card
+1045,CUST045,Sharon Cox,PROD045,Stapler,Stationery,1,18.00,18.00,2024-02-28,North,Alice Johnson,4.3,Bank Transfer
+1046,CUST046,Terry Howard,PROD046,Tablet Case,Electronics,1,35.00,35.00,2024-02-29,East,Charlie Brown,4.4,PayPal
+1047,CUST047,Cynthia Ward,PROD047,Wall Art,Furniture,2,40.00,80.00,2024-03-01,South,Bob Williams,4.7,Cash
+1048,CUST048,Jeffrey Torres,PROD048,Gaming Mouse,Electronics,1,75.00,75.00,2024-03-02,West,Alice Johnson,4.8,Credit Card
+1049,CUST049,Kelly Peterson,PROD049,Desk Organizer,Furniture,1,45.00,45.00,2024-03-03,North,Charlie Brown,4.2,Bank Transfer
+1050,CUST050,Scott Gray,PROD050,Bluetooth Earbuds,Electronics,1,150.00,150.00,2024-03-04,East,Bob Williams,4.6,PayPal
